@@ -1,0 +1,100 @@
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.deps.json
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.runtimeconfig.json
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.runtimeconfig.dev.json
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.dll
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.pdb
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.Views.dll
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.Views.pdb
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.csprojAssemblyReference.cache
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.csproj.CoreCompileInputs.cache
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorAssemblyInfo.cache
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorAssemblyInfo.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.AssemblyInfoInputs.cache
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.AssemblyInfo.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.TagHelpers.input.cache
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.TagHelpers.output.cache
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorCoreGenerate.cache
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Account\LoginRegister.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Dashboard\MyAccountCount.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Dashboard\UserMainDashboard.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Insert\Insert.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Insert\InsertProduct.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\PurchaseCard\MyPurchaseCard.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\LoginPart.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\RegisterPart.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutDashboard.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowPCProducts.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowPS4Products.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowXboxProducts.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorTargetAssemblyInfo.cache
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorTargetAssemblyInfo.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.Views.pdb
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.dll
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.pdb
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.csproj.CopyComplete
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Ticket\Ticket.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowAllProducts.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\WishList\MyWishList.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\QuickView.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Dashboard\UserDashboardTicket.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowAllPlatforms.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowAllCatogrys.g.cshtml.cs
+C:\Users\nima4\OneDrive\Desktop\OGS\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\AboutMe.g.cshtml.cs
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.deps.json
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.runtimeconfig.json
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.runtimeconfig.dev.json
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.dll
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.pdb
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.Views.dll
+D:\Desktop\New folder\GamingShop\GamingShop\bin\Debug\netcoreapp2.2\GamingShop.Views.pdb
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.csprojAssemblyReference.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.AssemblyInfoInputs.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.AssemblyInfo.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.csproj.CoreCompileInputs.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorAssemblyInfo.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorAssemblyInfo.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.TagHelpers.input.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.TagHelpers.output.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorCoreGenerate.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Account\LoginRegister.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Dashboard\MyAccountCount.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Dashboard\UserDashboardTicket.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Dashboard\UserMainDashboard.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\AboutMe.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Insert\Insert.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Insert\InsertProduct.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\PurchaseCard\MyPurchaseCard.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\LoginPart.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\RegisterPart.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutDashboard.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\QuickView.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowAllCatogrys.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowAllPlatforms.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowAllProducts.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowPCProducts.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowPS4Products.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Show\ShowXboxProducts.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\Ticket\Ticket.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\WishList\MyWishList.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorTargetAssemblyInfo.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.RazorTargetAssemblyInfo.cs
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.Views.pdb
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.dll
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.pdb
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.genruntimeconfig.cache
+D:\Desktop\New folder\GamingShop\GamingShop\obj\Debug\netcoreapp2.2\GamingShop.csproj.CopyComplete

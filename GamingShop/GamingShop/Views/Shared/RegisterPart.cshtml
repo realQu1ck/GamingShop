@@ -1,0 +1,20 @@
+﻿@model UserRegisterViewModel
+
+    <div class="form-group" style="float: left; border: 1px solid black;border-radius:10px; margin-left:50px; padding:7px;width:350px; margin-top:20px; ">
+        <h3>ثبت نام</h3>
+        <p>ساخت حساب جدید</p>
+        <form asp-controller="Account" asp-action="RegisterConfirm">
+            <div class="group box space-20">
+                <label class="control-label" for="inputemailres">ادرس ایمیل *</label>
+                <input asp-for="Email" class="form-control" type="text" placeholder="ادرس ایمیل" id="inputemailres">
+                <label class="control-label" for="inputemailres">نام کاربری*</label>
+                <input asp-for="Username" class="form-control" type="text" placeholder="نام کاربری" id="inputemailres">
+                <label class="control-label" for="inputemailres">رمز عبور *</label>
+                <input asp-for="Password" class="form-control" type="password" placeholder="رمز عبور" id="inputemailres">
+                <label class="control-label" for="inputemailres">شماره تلفن *</label>
+                <input asp-for="Tell" class="form-control" type="text" placeholder="شماره تلفن" id="inputemailres">
+            </div>
+            <button type="submit" class="btn btn-success" style="margin-top:10px">ثبت نام</button>
+        </form>
+    </div>
+

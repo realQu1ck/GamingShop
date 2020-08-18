@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "MyAccountCount";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+@model List<TblProduct>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>نام بازی</th>
+                <th>دستگاه</th>
+                <th>سبک</th>
+                <th>قیمت</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>@item.TblAll.Name</td>
+                    <td>@item.TblPlatform.Name</td>
+                    <td>@item.TblCategory.Name</td>
+                    <td>@item.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

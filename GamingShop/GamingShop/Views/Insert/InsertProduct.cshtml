@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewData["Title"] = "InsertProduct";
+}
+@model InsertProductViewModel
+
+    <div class="form-group" style=" margin: auto; margin-top:10px; margin-bottom:10px;  width: 40%;  border: 3px solid black;  padding: 10px; border-radius:9px">
+        <h3>ثبت اکانت جدید</h3>
+        <p>ساخت حساب جدید</p>
+        <form asp-controller="Insert" asp-action="InsertProductConfirm" method="post" enctype="multipart/form-data">
+            <div class="group box space-20">
+                <label class="control-label" for="inputemailres">نام بازی</label>
+                <select asp-for="GameId" class="form-control" type="" placeholder="نام دستگاه" id="inputemailres">
+                    @foreach (var item in ViewData["Game"] as List<TblAll>)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+                <label class="control-label" for="inputemailres">نام دستگاه*</label>
+                <select asp-for="PlatformId" class="form-control" type="" placeholder="نام دستگاه" id="inputemailres">
+                    @foreach (var item in ViewData["Pla"] as List<TblPlatform>)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+                <label class="control-label" for="inputemailres">دسته بندی *</label>
+                <select asp-for="CategoryId" class="form-control" type="" placeholder="نام دستگاه" id="inputemailres">
+                    @foreach (var item in ViewData["Cat"] as List<TblCategory>)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+                <label class="control-label" for="inputemailres">توضیحات *</label>
+                <input asp-for="About" class="form-control" type="text" placeholder="توضیحات " id="inputemailres">
+                <label class="control-label" for="inputemailres">قیمت *</label>
+                <input asp-for="Price" class="form-control" type="text" placeholder="قیمت " id="inputemailres">
+                <label class="control-label" for="inputemailres">عکس بازی را انتخاب کنید *</label>
+                <div class="custom-file" style="margin-bottom:20px;margin-top:10px">
+                    <input multiple type="file" asp-for="Img" class="custom-file-input" />
+                    <label class="custom-file-label">Choose File...!</label>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-success" style="margin-top: 10px">ثبت</button>
+        </form>
+    </div>
+

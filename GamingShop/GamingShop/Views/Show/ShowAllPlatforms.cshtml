@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "ShowAllPlatforms";
+}
+
+@model List<TblPlatform>
+
+<div class="form-group" style="padding:30px"> 
+    @foreach (var item in Model)
+    {
+        <h4>@item.Name</h4>
+    }
+</div>
+
+

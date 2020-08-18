@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "ShowPS4Products";
+}
+
+@model List<TblProduct>
+<div class="col-md-12">
+    <div class="row">
+        <div class="products-tabs">
+            <div id="tab2" class="tab-pane fade in active">
+                <div class="products-slick" data-nav="#slick-nav-2">
+                    @foreach (var item in Model)
+                    {
+
+                        <div class="product" productid="@item.Id">
+                            <div style="width:100%;height:200px">
+                                <img src="@($"data:image/jpg;base64,{Convert.ToBase64String(item.TblProductImgs.First().ImgThumb)}")">
+                                <div class="product-label">
+                                </div>
+                            </div>
+                            <div class="product-body">
+                                <p class="product-category">@item.TblCategory.Name</p>
+                                <h3 class="product-name"><a href="#">@item.TblAll.Name</a></h3>
+                                <h4 class="product-price">@item.Price <del class="product-old-price">@item.Price</del></h4>
+                                <div class="product-rating">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                </div>
+                                <div class="product-btns">
+
+                                </div>
+                            </div>
+                            <div class="add-to-cart">
+                                <button class="add-to-cart-btn" id="addtocart" cartid="@item.Id"><i class="fa fa-shopping-cart"></i>اضافه به سبد خرید</button>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+        $(function () {
+            $(addtocart).click(function () {
+                var cartid = $(this).attr('cartid');
+                $.post('/PurchaseCard/AddToCart', { cartid: cartid }, function (value) {
+                    if (value === true) {
+                        alert("Succuss");
+                    }
+                })
+            })
+        })
+        $(addtowish).click(function () {
+            var cartid = $(this).attr('cartid');
+            $.post('/WishList/AddToCart', { cartid: cartid }, function (value) {
+                if (value === true) {
+                    alert("Succuss");
+                }
+            })
+        })
+        $(quickview).click(function () {
+            var cartid = $(this).attr('cartid');
+            $.post('/Show/CheckQuickView', { cartid: cartid }, function (value) {
+                if (value === true) {
+                    alert("S");
+                }
+            })
+        })
+</script>

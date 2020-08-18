@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Ticket";
+}
+@model TicketViewModel
+
+<div class="form-group" style="padding:5px; margin:100px; border:2px dotted; border-color:black; border-">
+    <form asp-controller="Ticket" asp-action="SendTicketConfirm">
+        <div class="group box space-20">
+            <label class="control-label" for="inputemailres">موضوع</label>
+            <input asp-for="Subject" class="form-control" type="text" placeholder="موضوع" id="inputemailres">
+            <label class="control-label" for="inputemailres">متن</label>
+            <input asp-for="Text" class="form-control" type="text" multiple="" placeholder="متن" id="inputemailres">
+        </div>
+        <button type="submit" class="btn btn-success" style="margin-top:10px">ارسال</button>
+    </form>
+</div>
